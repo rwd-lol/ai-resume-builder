@@ -1,4 +1,3 @@
-# AI Resume Builder
+# this repository is moved to
 
-soon...
-
+https://github.com/bewerbai
