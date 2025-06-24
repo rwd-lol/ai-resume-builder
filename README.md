@@ -1,2 +1,4 @@
-# ai-resume-builder
-ai resume builder
+# AI Resume Builder
+
+soon...
+
